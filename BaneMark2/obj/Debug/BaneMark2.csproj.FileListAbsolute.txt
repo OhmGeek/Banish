@@ -1,0 +1,16 @@
+\\studentserver\Admin\Ryan\My Documents\Visual Studio 2008\Projects\BaneMark2\BaneMark2\obj\Debug\ResolveAssemblyReference.cache
+\\studentserver\Admin\Ryan\My Documents\Visual Studio 2008\Projects\BaneMark2\BaneMark2\obj\Debug\BaneMark2.Form1.resources
+\\studentserver\Admin\Ryan\My Documents\Visual Studio 2008\Projects\BaneMark2\BaneMark2\obj\Debug\BaneMark2.Properties.Resources.resources
+\\studentserver\Admin\Ryan\My Documents\Visual Studio 2008\Projects\BaneMark2\BaneMark2\obj\Debug\BaneMark2.csproj.GenerateResource.Cache
+\\studentserver\Admin\Ryan\My Documents\Visual Studio 2008\Projects\BaneMark2\BaneMark2\bin\Debug\BaneMark2.exe
+\\studentserver\Admin\Ryan\My Documents\Visual Studio 2008\Projects\BaneMark2\BaneMark2\bin\Debug\BaneMark2.pdb
+\\studentserver\Admin\Ryan\My Documents\Visual Studio 2008\Projects\BaneMark2\BaneMark2\obj\Debug\BaneMark2.exe
+\\studentserver\Admin\Ryan\My Documents\Visual Studio 2008\Projects\BaneMark2\BaneMark2\obj\Debug\BaneMark2.pdb
+C:\Users\Ryan\Desktop\BaneMark2\BaneMark2\obj\Debug\BaneMark2.exe
+C:\Users\Ryan\Desktop\BaneMark2\BaneMark2\obj\Debug\BaneMark2.pdb
+C:\Users\Ryan\Desktop\BaneMark2\BaneMark2\bin\Debug\BaneMark2.exe
+C:\Users\Ryan\Desktop\BaneMark2\BaneMark2\bin\Debug\BaneMark2.pdb
+C:\Users\Ryan\Desktop\BaneMark2\BaneMark2\obj\Debug\BaneMark2.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\BaneMark2\BaneMark2\obj\Debug\BaneMark2.Form1.resources
+C:\Users\Ryan\Desktop\BaneMark2\BaneMark2\obj\Debug\BaneMark2.Properties.Resources.resources
+C:\Users\Ryan\Desktop\BaneMark2\BaneMark2\obj\Debug\BaneMark2.csproj.GenerateResource.Cache
