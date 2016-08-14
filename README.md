@@ -6,3 +6,5 @@ It was written using Visual Studio 2010/2013, and only runs on Windows in the cu
 Computers highlighted in green text are powered on and those in black are turned off.
 
 The initial project was written before I used GitHub, from June 2014 - May 2015. It was co-written by Tom Chambers (http://tom-chambers.co.uk).
+
+All references to 'BaneMark2' arise because this program replaced a previous program called Bane. Think of BaneMark2 as a codename, and Banish as the release name.
